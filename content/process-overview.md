@@ -45,3 +45,8 @@ The provision system first know of an application when the contract system polic
 
 
 https://www.youtube.com/watch?v=ItRopNk6avk
+
+
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html
+
+https://event-driven.io/en/saga_process_manager_distributed_transactions/
