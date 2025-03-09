@@ -3,6 +3,7 @@ Date: 2010-12-19 10:20
 Category: Software-Engeneering
 Slug: setting-up-nextcloud-with-ansible-terraform-in-hetzner-cloud
 lang: en
+status: draft
 Tags: cloud, dev-ops, nextcloud, ansible, terrform, hetzner
 
 # Setting up Nextcloud in the Hetzner Cloud

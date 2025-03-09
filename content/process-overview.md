@@ -1,8 +1,9 @@
 Title: Know where your distributed processes are
-Date: 2010-12-14 10:20
+Date: 2025-12-14 10:20
 Category: Software-Engeneering
 Slug: bla
 lang: en
+status: draft
 Tags: architecture, bpmn, distributed systems
 
 ## Problem statement

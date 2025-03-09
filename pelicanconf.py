@@ -1,6 +1,6 @@
 AUTHOR = 'Marc Gorzala'
-SITENAME = 'Coden in der Kothe'
-SITEURL = "https://coden.in-der-kothe.de"
+SITENAME = 'Kultur in der Kothe'
+SITEURL = "https://kultur.in-der-kothe.de"
 
 PATH = "content"
 
@@ -31,4 +31,4 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+RELATIVE_URLS = True
