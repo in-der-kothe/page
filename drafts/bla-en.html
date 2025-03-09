@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="Pelican" />
+        <title>Know where your distributed processes are</title>
+        <link rel="stylesheet" href="../theme/css/main.css" />
+        <meta name="description" content="Problem statement In distributes environments, business processes quite ofen span several systems. It is pretty normal that the involved systems..." />
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="../">Kultur in der Kothe</a></h1>
+                <nav><ul>
+                    <li><a href="../pages/about.html">About</a></li>
+                    <li><a href="../pages/rules.html">Rules</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="../drafts/bla-en.html" rel="bookmark"
+           title="Permalink to Know where your distributed processes are">Know where your distributed processes are</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2025-12-14T10:20:00+01:00">
+                Published: Sun 14 December 2025
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="../author/marc-gorzala.html">Marc Gorzala</a>
+        </address>
+<p>In <a href="../category/software-engeneering.html">Software-Engeneering</a>.</p>
+<p>tags: <a href="../tag/architecture.html">architecture</a> <a href="../tag/bpmn.html">bpmn</a> <a href="../tag/distributed-systems.html">distributed systems</a> </p>
+</footer><!-- /.post-info -->      <h2>Problem statement</h2>
+<p>In distributes environments, business processes quite ofen span several systems. It is pretty normal that the involved systems are in ownership of serveral teams and even business divisions.</p>
+<p>One pretty common design goal of distributed systems is, that they are decoupled from each other, to make independend development possible.</p>
+<p>This often leads to a situation where Teams owning one system, does not even know other systems not being directly connected to them.</p>
+<p>This is pretty nice in one way. But from a business perspective we often want often have question where answer need to look on the process holistically. </p>
+<p>As it is often more easy to argue with one concrete example, let's have a look on it.</p>
+<p><img alt="process that shows the flow of an offer/application to the contract and the provision including payment" src="../distributed-process-view.excalidraw.svg"></p>
+<p>This example shows an insurance agent, that talked with an insucrance customer. He convinced the customer to accept an <em>offer</em>, that leads to an application.</p>
+<p>The contract service perform some validations and checks the solvency with some external system. When everything turns out to be successfull. It policies the contract, meaning that it is now legally in a state, that the insurance is in place.</p>
+<p>Whenever an contract ist being policied, the provision system is going to calculate the provsion to be payed out to the insurance agent.</p>
+<p>In this example process we have already 4 different systems, being owend by 4 different teams.</p>
+<p>In the real world such a process is being comprised of even more systems/teams.</p>
+<h3>Typical question that involves more than one team/system</h3>
+<p>The insurance agents want to know what happend to the offer/applications they goes back to them. They want to know if they got all the provisions.</p>
+<p>The provision system first know of an application when the contract system policies a contract. It does not know of the offers that are in the state before this. Eg. if the application is in a state of a pending check with the scoring system, it could not know that there is an outstanding offer/application.</p>
+<h3>Possible solutions to this kind of questions</h3>
+<ol>
+<li>Let all thoose systems have the needed information</li>
+</ol>
+<p>This would mean in our example, that the <em>provision</em> system is having all the information of all relevant steps before.
+1. Gather all process related information from all steps in a central system</p>
+<p>https://www.youtube.com/watch?v=ItRopNk6avk</p>
+<p>https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html</p>
+<p>https://event-driven.io/en/saga_process_manager_distributed_transactions/</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://project.dancier.net">Dancier</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

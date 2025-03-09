@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="Pelican" />
+        <title>Setting up Nextcloud with ansible/terraform in the hetzner cloud</title>
+        <link rel="stylesheet" href="../theme/css/main.css" />
+        <meta name="description" content="Setting up Nextcloud in the Hetzner Cloud This setup will have the following features Automated with Terraform and Ansible Your own Collabora..." />
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="../">Kultur in der Kothe</a></h1>
+                <nav><ul>
+                    <li><a href="../pages/about.html">About</a></li>
+                    <li><a href="../pages/rules.html">Rules</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="../drafts/setting-up-nextcloud-with-ansible-terraform-in-hetzner-cloud-en.html" rel="bookmark"
+           title="Permalink to Setting up Nextcloud with ansible/terraform in the hetzner cloud">Setting up Nextcloud with ansible/terraform in the hetzner cloud</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2010-12-19T10:20:00+01:00">
+                Published: Sun 19 December 2010
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="../author/marc-gorzala.html">Marc Gorzala</a>
+        </address>
+<p>In <a href="../category/software-engeneering.html">Software-Engeneering</a>.</p>
+<p>tags: <a href="../tag/cloud.html">cloud</a> <a href="../tag/dev-ops.html">dev-ops</a> <a href="../tag/nextcloud.html">nextcloud</a> <a href="../tag/ansible.html">ansible</a> <a href="../tag/terrform.html">terrform</a> <a href="../tag/hetzner.html">hetzner</a> </p>
+</footer><!-- /.post-info -->      <h1>Setting up Nextcloud in the Hetzner Cloud</h1>
+<p>This setup will have the following features</p>
+<ul>
+<li>Automated with Terraform and Ansible</li>
+<li>Your own Collabora Office Server to work on office documents simultanously.</li>
+<li>Persistence on chead S3 Storage</li>
+<li>Easy to recover in case of a disaster</li>
+<li>Total cost of around 8€/month for 2TB</li>
+</ul>
+<h2>Where to find the source</h2>
+<p>The source is on github. Use it as you wish.</p>
+<h2>Architecture view</h2>
+<p><img alt="process that shows the flow of an offer/application to the contract and the provision including payment" src="../nextcloud-big-picture.drawio.svg">)</p>
+<p><img alt="process that shows the flow of an offer/application to the contract and the provision including payment" src="../nextcloud-level-2-building-block-nextcloud.drawio.svg"></p>
+<h2>What the scripts do..</h2>
+<p>Terraform and Ansible will work together to set everything up.</p>
+<h3>Terraform will</h3>
+<h3>Ansible will</h3>
+<h2>Prerequisites for you to understand this stuff</h2>
+<ul>
+<li>basic understanding of linux</li>
+<li>basic understanding of network administration</li>
+<li>basic understanding of docker</li>
+</ul>
+<p>More than just basic understanding is of course better</p>
+<h2>Prerequisites that you need to have to reproduce this stuff</h2>
+<ul>
+<li>a hetzner cloud account</li>
+<li>a domain name in the hetzner cloud account</li>
+<li>terraform installed on your computer</li>
+<li>ansible installed on your computer</li>
+</ul>
+<p>https://joshtronic.com/2021/03/07/delete-all-files-in-an-s3-bucket/</p>
+<p>https://hub.docker.com/_/nextcloud/</p>
+<p>https://community.hetzner.com/tutorials/nextcloud-hetzner-object-storage</p>
+<p>https://docs.hetzner.com/storage/object-storage/getting-started/using-s3-api-tools/</p>
+<p>https://prasanthmj.github.io/terraform/terraform-hetzner-cloud-setup-example/</p>
+<p>https://manpages.ubuntu.com/manpages/xenial/man1/s3cmd.1.html</p>
+<p>s3cmd -c s3cfg del s3://kothe2 --recursive --force</p>
+<p>s3cmd -c s3cfg sync s3://kothe2 backup</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://project.dancier.net">Dancier</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
