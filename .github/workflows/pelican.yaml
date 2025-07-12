@@ -27,7 +27,7 @@ jobs:
       - name: create content
         run: pelican content -s publishconf.py
       - name: show content
-        run: ls -la
+        run: cat output/index.html
       - name: ftp-action
         uses: sebastianpopp/ftp-action@v1.1.0
         with:
