@@ -28,3 +28,15 @@ jobs:
         run: pelican content -s publishconf.py
       - name: show content
         run: ls -la
+      - name: ftp-action
+        uses: sebastianpopp/ftp-action@v1.1.0
+        with:
+          # FTP host
+          host: ${{ secrets.DOCU_FTP_HOST }}
+          # FTP userg
+          user: ${{ secrets.DOCU_FTP_USER }}
+          # FTP password
+          password:  ${{ secrets.DOCU_FTP_PASS }}
+          # Local directory
+          localDir: output/
+
