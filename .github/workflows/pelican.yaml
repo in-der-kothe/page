@@ -24,3 +24,7 @@ jobs:
           cache-dependency-path: |
             requirements.txt
           install-cmd: pip install -r requirements.txt
+      - name: create content
+        run: pelican content -s publishconf.py
+      - name: show content
+        run: ls -la
