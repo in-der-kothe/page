@@ -5,6 +5,7 @@ Slug: bla
 lang: de
 Tags: architecture, bpmn, distributed systems
 
-## Problem statement
+## Worum es geht
 
-nothing here
+Es geht um funktionales Training mit Photosynteseprodukten
+
