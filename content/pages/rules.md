@@ -21,3 +21,17 @@ Typsiche Themen bei denen ich das Gefühl haben das dies problematisch sind z.B.
 * Geschlechtergerechtigkeit
 * Israel/Palästina
 
+Praktisch egal wo Du stehst, bist Du bei uns willkommen!
+
+Bitte vermeide unbedingt folgendes:
+
+* die andere Position zu verurteilen
+* noch schlimmer: den anderen Menschen zu verurteilen
+* ein Gespräch dem anderen aufzudrängen
+
+Versuche eher mit der Haltung in Gespräche zu gehen, den anderen verstehen zu wollen und weniger in zu überzeugen.
+
+Das Ziel sollte sein, dass alle etwas von einem Tag bei uns haben. Bei manchen Themen kann es anstrengend sein, das ist OK. Keinesfalls ist es OK den anderen herabzuwürdigen.
+
+Wenn das Dein Mindset ist, dann komm zu uns.
+
