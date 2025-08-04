@@ -1,4 +1,5 @@
 Title: About
+lang: de
 Date: 2025-03-07
 
 Wir möchten allen Menschen einen Raum zur Verfügung stellen um z.B. folgendes gemeinsamen zu machen:
