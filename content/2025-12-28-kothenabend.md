@@ -7,6 +7,8 @@ Tags: Lagerfeuer, Freunde, Kothe
 
 __Nächster Termin: 3. Februar 2026 (Vollmond)__
 
+![Description of my cool picture](/images/Kothenabend.png)
+
 Einmal im Monat, zum Vollmond, kommen wir bei uns in der Kothe zusammen, um einen besonderen Abend am Feuer zu verbringen – denn dann ist die Nacht am hellsten.
 
 Wir kochen gemeinsam etwas Leckeres, essen zusammen, tauschen uns aus und genießen einfach eine gute Zeit am Lagerfeuer.
