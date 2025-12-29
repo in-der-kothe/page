@@ -5,7 +5,7 @@ Slug: Kothenabend
 lang: de
 Tags: Lagerfeuer, Freunde, Kothe
 
-__Nächster Termin: 3. Februar 2026 (Vollmond)__
+__Nächster Termin: 31. Januar 2026 (Vollmond)__
 
 ![Description of my cool picture](/images/Kothenabend.png)
 
