@@ -1,5 +1,5 @@
 Title: Kothenabend
-Date: 2025-12-28 20:00
+Date: 2026-02-15 13:00
 Category: Events
 Slug: Kothenabend
 lang: de
