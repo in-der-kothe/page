@@ -28,5 +28,7 @@ __Herzliche Grüße,__
 
 Xiaofei & Marc
 
-PS: [Bilder vom letzten Mal](https://cloud.in-der-kothe.de/apps/photos/public/TLR4VwPecuRi4dbKbUuus9LYj1MPVvE2
+PS: 
+* [Nutze diesen Chat bei Fragen](https://cloud.in-der-kothe.de/call/uh24vjt2)
+* [Bilder vom letzten Mal](https://cloud.in-der-kothe.de/apps/photos/public/TLR4VwPecuRi4dbKbUuus9LYj1MPVvE2
 ) Lass uns wissen, wenn Du ein Bild von Dir  hier nicht abgebildet haben möchtest.
