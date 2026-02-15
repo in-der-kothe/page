@@ -5,8 +5,6 @@ Slug: Tangofete-2026
 lang: de
 Tags: Freunde, Tango, Tanzen
 
-__Nächster Termin: 28. Februar 2026 (Vollmond)__
-
 ![Kothe](/images/tangofete-logo.png)
 
 Hey ihr Lieben,
