@@ -1,7 +1,7 @@
 Title: Kothenabend
 Date: 2026-02-15 13:00
 Category: Events
-Slug: Kothenabend
+Slug: Kothenabend-Februar
 lang: de
 Tags: Lagerfeuer, Freunde, Kothe
 
