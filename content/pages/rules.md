@@ -1,37 +1,31 @@
 Title: Rules
 Date: 2025-03-07 10:20
-Modified: 2025-08-04
+Modified: 2026-02-15
 lang: de
 
-Wir sind grundsätzlich offen für eine Menge verschiedener Vorhaben. Und ebenfalls möchten wir offen sein für eine Menge unterschiedlicher Menschen und Vorstellungen. 
+# Regeln & Miteinander im Kulturzentrum
 
-Am Ende sollen es Momente sein, bei denen die Welt nachher irgendwie mindestens ein bisschen besser ist.
+Wir möchten mit unserem kleinen Kulturzentrum einen offenen Ort schaffen – für unterschiedliche Menschen, Ideen, Projekte und Perspektiven. Uns geht es darum, gemeinsam Erfahrungen zu machen, kreativ zu sein, voneinander zu lernen oder einfach eine gute Zeit miteinander zu verbringen. Im besten Fall entstehen dabei Momente, nach denen sich die Welt zumindest ein kleines bisschen besser anfühlt.
 
-Etwas zusammen zu schaffen, kann sich ganz unterschiedlich ausprägen. Es kann ein Bastelprojekt sein, eine neue Fertikeit wie das Spielen eines Instruments, nicht zuletzt aber auch das Erfahren neuer Eindrücke.
+Gemeinschaft kann viele Formen annehmen: ein Bastel- oder Kunstprojekt, Musik machen, allgemein neue Fähigkeiten erwerben, Gespräche führen oder einfach entspannt zusammen Zeit verbringen. Viele unserer Veranstaltungen sind genau darauf ausgerichtet – auf gemeinsames Tun und Begegnung ohne großen Diskussionsdruck.
 
-Gerade bei Letzterem kann es herausfordernd zu sein, sich über Eindrücke Vorstellungen über die Welt auszutauschen und sicherzustellen, dass nachher jeder mit einem guten Gefühl nach Hause geht.
+Manchmal entstehen trotzdem Gespräche über gesellschaftliche oder politische Themen. Das kann bereichernd sein, gelegentlich aber auch herausfordernd. Beispiele für Themen, bei denen Diskussionen schnell emotional werden können, sind etwa der Krieg in der Ukraine, Spannungen mit Russland oder der Konflikt zwischen Israel und Palästina.
 
-Gerade nehme ich die Gesellschaft als in vielen Bereichen immer stärker gespalten war. Man ist entweder für etwas oder dagegen. Wer auf der jeweils anderen Seite steht, fühlt sich häufig ausgegrenzt.
+Unabhängig davon, wo du in solchen Fragen stehst: Du bist bei uns willkommen.
 
-Das ist etwas was für auf jeden Fall vermeiden wollen. Nicht indem wir potentiell problematische Themen tabuisieren wollen, sondern indem wir alles geben um andere Positionen versuchen zu verstehen. Indem wir davon ausgehen, dass wir nicht unbedingt auf der richtigen Seite zu stehen.
+Damit Begegnungen für alle angenehm bleiben, bitten wir dich:
 
-Typsiche Themen bei denen ich das Gefühl haben das dies problematisch sind z.B.
+* andere Positionen nicht vorschnell zu verurteilen
 
-* Ukraine/Russland
-* Geschlechtergerechtigkeit
-* Israel/Palästina
+* Menschen nicht persönlich abzuwerten
 
-Praktisch egal wo Du stehst, bist Du bei uns willkommen!
+* Gespräche niemandem aufzudrängen
 
-Bitte vermeide unbedingt folgendes:
+* eher verstehen zu wollen als unbedingt überzeugen zu müssen
 
-* die andere Position zu verurteilen
-* noch schlimmer: den anderen Menschen zu verurteilen
-* ein Gespräch dem anderen aufzudrängen
+Wenn ernstere Themen angesprochen werden, darf das durchaus anstrengend sein. Wichtig ist uns jedoch, dass es nie in Respektlosigkeit, Abwertung oder persönliche Angriffe umschlägt. Unser Ziel ist, dass alle sich sicher fühlen und etwas Positives aus der gemeinsamen Zeit mitnehmen.
 
-Versuche eher mit der Haltung in Gespräche zu gehen, den anderen verstehen zu wollen und weniger in zu überzeugen.
+## Fotos bei Veranstaltungen
 
-Das Ziel sollte sein, dass alle etwas von einem Tag bei uns haben. Bei manchen Themen kann es anstrengend sein, das ist OK. Keinesfalls ist es OK den anderen herabzuwürdigen.
-
-Wenn das Dein Mindset ist, dann komm zu uns.
-
+Bei unseren Veranstaltungen können gelegentlich Fotos gemacht werden, um Aktivitäten zu dokumentieren und Einblicke in unsere Arbeit auf unserem Blog oder in anderer Öffentlichkeitsarbeit zu geben.
+Wenn du nicht fotografiert werden möchtest oder mit einer Veröffentlichung nicht einverstanden bist, sag uns bitte einfach Bescheid – wir respektieren das selbstverständlich.
