@@ -1,9 +1,7 @@
-Title: Rules
+Title: Regeln & Miteinander im Kulturzentrum
 Date: 2025-03-07 10:20
 Modified: 2026-02-15
 lang: de
-
-# Regeln & Miteinander im Kulturzentrum
 
 Wir möchten mit unserem kleinen Kulturzentrum einen offenen Ort schaffen – für unterschiedliche Menschen, Ideen, Projekte und Perspektiven. Uns geht es darum, gemeinsam Erfahrungen zu machen, kreativ zu sein, voneinander zu lernen oder einfach eine gute Zeit miteinander zu verbringen. Im besten Fall entstehen dabei Momente, nach denen sich die Welt zumindest ein kleines bisschen besser anfühlt.
 
