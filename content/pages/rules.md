@@ -1,4 +1,4 @@
-Title: Regeln & Miteinander im Kulturzentrum
+Title: Regeln
 Date: 2025-03-07 10:20
 Modified: 2026-02-15
 lang: de
