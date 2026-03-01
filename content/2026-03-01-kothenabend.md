@@ -8,8 +8,7 @@ Tags: Lagerfeuer, Freunde, Kothe, Tango, Yoga
 __Nächster Termin: 28. März 2026 (Vollmond)__
 
 Einmal im Monat kommen wir zusammen, um einen besonderen Abend miteinander zu verbringen.
-
-Das Ganze findet um den Vollmond herum statt, weil dann die Nacht am hellsten ist. In der Kothe wärmen wir uns am Feuer, kochen zusammen Esssen und wir können auch im neuen Tanzraum Tango tanzen!
+Das Ganze findet um den Vollmond herum statt, weil dann die Nacht am hellsten ist. In der Kothe wärmen wir uns am Feuer, kochen zusammen Essen und wir können auch im neuen Tanzraum Tango tanzen!
 
 Wenn du Gitarre oder ein anderes Instrument spielst, bring es sehr gerne mit!
 
