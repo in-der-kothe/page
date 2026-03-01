@@ -23,6 +23,7 @@ Bitte bring kein Essen oder Ähnliches mit. Das führt meist dazu, dass wir am E
 ## Übernachtung
 Für die Übernachtung bring bitte einen Schlafsack und eine Isomatte mit. Alles Weitere organisieren wir gemeinsam vor Ort. Falls dir etwas fehlt, melde dich einfach bei uns – wir finden bestimmt eine Lösung.
 
+
 ## Unterstützung
 Wenn du dem Kulturzentrum etwas zurückgeben willst, hilft es uns am meisten, wenn du etwas in unser Sparschwein (bei uns ein Sparpandabär) wirfst und/oder uns bei künftigen Bauaktionen unterstützt.
 
@@ -35,6 +36,5 @@ Xiaofei & Marc
 ---
 
 * [Nutze diesen Chat bei Fragen](https://cloud.in-der-kothe.de/call/uh24vjt2)
-* [Bilder vom letzten Mal](https://cloud.in-der-kothe.de/apps/photos/public/RQZV9v493Zf9J1kwiw4iV4MIpHthPGF3)
-) Lass uns wissen, wenn Du ein Bild von Dir  hier nicht abgebildet haben möchtest.
+* [Bilder vom letzten Mal](https://cloud.in-der-kothe.de/apps/photos/public/RQZV9v493Zf9J1kwiw4iV4MIpHthPGF3) Lass uns wissen, wenn Du ein Bild von Dir  hier nicht abgebildet haben möchtest.
 * Bitte beachte die [Regeln](https://in-der-kothe.de/pages/regeln.html)
