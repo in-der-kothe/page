@@ -5,7 +5,7 @@ Slug: Funktionales Trainging März
 lang: de
 Tags: Freunde, Natur, Tango, Yoga
 
-![Funktionales-Training](/images/funktionales-training.jpg)
+![Training](/images/funktionales-training.jpg)
 
 Liebe Freunde,
 
