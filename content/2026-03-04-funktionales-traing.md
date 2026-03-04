@@ -1,7 +1,7 @@
 Title: Funktionales Training mit Photosyntheseprodukten
 Date: 2026-03-04 13:00
 Category: Events
-Slug: Funktionales Trainging März
+Slug: Funktionales Training März
 lang: de
 Tags: Freunde, Natur, Tango, Yoga
 
