@@ -1,5 +1,5 @@
 Title: Funktionales Training mit Photosyntheseprodukten
-Date: 2026-03-01 13:00
+Date: 2026-03-04 13:00
 Category: Events
 Slug: Funktionales Trainging März
 lang: de
