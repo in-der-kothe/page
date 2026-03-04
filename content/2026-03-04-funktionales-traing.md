@@ -9,7 +9,7 @@ Tags: Freunde, Natur, Tango, Yoga
 
 Liebe Freunde,
 
-wieder einmal steht ein **ganzheitliches Training** an – diesmal mit Fokus auf ** biologische Prozesse ** und **handwerkliche Präzision**. Die **Trainingsgeräte** sind bereits vor Ort, und wir empfehlen **robuste Kleidung**. Kommt vorbei, wir freuen uns auf eure **manuelle Expertise**!
+wieder einmal steht ein **ganzheitliches Training** an – diesmal mit Fokus auf **biologische Prozesse** und **handwerkliche Präzision**. Die **Trainingsgeräte** sind bereits vor Ort, und wir empfehlen **robuste Kleidung**. Kommt vorbei, wir freuen uns auf eure **manuelle Expertise**!
 
 
 Gut Grün,
