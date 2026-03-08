@@ -17,4 +17,4 @@ Gut Grün,
 
 **Xiaofei und Marc**
 
-PS: Bitte beachte die [Regeln](https://in-der-kothe.de/pages/regeln.html)
+PS: Bitte beachte die [Regeln](https://in-der-kothe.de/pages/about.html)

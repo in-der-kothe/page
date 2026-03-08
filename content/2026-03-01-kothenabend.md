@@ -37,4 +37,4 @@ Xiaofei & Marc
 
 * [Nutze diesen Chat bei Fragen](https://cloud.in-der-kothe.de/call/uh24vjt2)
 * [Bilder vom letzten Mal](https://cloud.in-der-kothe.de/apps/photos/public/RQZV9v493Zf9J1kwiw4iV4MIpHthPGF3) Lass uns wissen, wenn Du ein Bild von Dir  hier nicht abgebildet haben möchtest.
-* Bitte beachte die [Regeln](https://in-der-kothe.de/pages/regeln.html)
+* Bitte beachte die [Regeln](https://in-der-kothe.de/pages/about.html)

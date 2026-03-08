@@ -2,18 +2,27 @@ Title: About
 lang: de
 Date: 2025-03-07
 
-Wir möchten allen Menschen einen Raum zur Verfügung stellen um z.B. folgendes gemeinsamen zu machen:
+Wir möchten mit unserem kleinen Kulturzentrum einen offenen Ort schaffen – für unterschiedliche Menschen, Ideen, Projekte und Perspektiven. Uns geht es darum, gemeinsam Erfahrungen zu machen, kreativ zu sein, voneinander zu lernen oder einfach eine gute Zeit miteinander zu verbringen. Im besten Fall entstehen dabei Momente, nach denen sich die Welt zumindest ein kleines bisschen besser anfühlt.
 
-  * Zusammen ein Instrument zu spielen, zu singen....
-  * Zusammen zum Tanzen, Yoga oder anderem zu treffen
-  * Zusammen an etwas handwerklichen Arbeiten. Mit Holz oder auch auch einfach zusammen zu kochen
-  * sich über gemeinschaftliche Themen austauschen
+Gemeinschaft kann viele Formen annehmen: ein Bastel- oder Kunstprojekt, Musik machen, allgemein neue Fähigkeiten erwerben, Gespräche führen oder einfach entspannt zusammen Zeit verbringen. Viele unserer Veranstaltungen sind genau darauf ausgerichtet – auf gemeinsames Tun und Begegnung ohne großen Diskussionsdruck.
 
-Wenn Du einen solchen Raum für ein Vorhaben suchst/sinnvoll findest, dann melde Dich bei uns und wir schauen ob das zu uns passt.
+Manchmal entstehen trotzdem Gespräche über gesellschaftliche oder politische Themen. Das kann bereichernd sein, gelegentlich aber auch herausfordernd. Beispiele für Themen, bei denen Diskussionen schnell emotional werden können, sind etwa der Krieg in der Ukraine, Spannungen mit Russland oder der Konflikt zwischen Israel und Palästina.
 
-Wenn Du hier ein Event findest, bei Dem Du mitmachen möchtest, dann melde Dich auch einfach bei bei uns.
+Unabhängig davon, wo du in solchen Fragen stehst: Du bist bei uns willkommen.
 
-Lieber Gruß,
+Damit Begegnungen für alle angenehm bleiben, bitten wir dich:
 
-Xiaofei und Marc
+* andere Positionen nicht vorschnell zu verurteilen
 
+* Menschen nicht persönlich abzuwerten
+
+* Gespräche niemandem aufzudrängen
+
+* eher verstehen zu wollen als unbedingt überzeugen zu müssen
+
+Wenn ernstere Themen angesprochen werden, darf das durchaus anstrengend sein. Wichtig ist uns jedoch, dass es nie in Respektlosigkeit, Abwertung oder persönliche Angriffe umschlägt. Unser Ziel ist, dass alle sich sicher fühlen und etwas Positives aus der gemeinsamen Zeit mitnehmen.
+
+## Fotos bei Veranstaltungen
+
+Bei unseren Veranstaltungen können gelegentlich Fotos gemacht werden, um Aktivitäten zu dokumentieren und Einblicke in unsere Arbeit auf unserem Blog oder in anderer Öffentlichkeitsarbeit zu geben.
+Wenn du nicht fotografiert werden möchtest oder mit einer Veröffentlichung nicht einverstanden bist, sag uns bitte einfach Bescheid – wir respektieren das selbstverständlich.
