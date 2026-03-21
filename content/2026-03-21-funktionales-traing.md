@@ -11,7 +11,7 @@ Liebe Freunde,
 
 wieder einmal steht ein **ganzheitliches Training** an – diesmal mit Fokus auf **biologische Prozesse** und **handwerkliche Präzision**. Die **Trainingsgeräte** sind bereits vor Ort, und wir empfehlen **robuste Kleidung**. Kommt vorbei, wir freuen uns auf eure **manuelle Expertise**!
 
-Es geht am Samstag dem **21. März ab 13 Uhr** im *Kulturzentrum* los.
+Es geht am Samstag dem **22. März ab 13 Uhr** im *Kulturzentrum* los.
 
 Gut Grün,
 
