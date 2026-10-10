@@ -18,12 +18,10 @@ Wenn du Gitarre oder ein anderes Instrument spielst, bring es sehr gerne mit!
 ## Essen & Mitbringen
 Bitte bring kein Essen oder Ähnliches mit. Das führt meist dazu, dass wir am Ende zu viel vom Gleichen haben. Falls du besondere Anforderungen an das Essen hast oder eine tolle Idee für ein gemeinsames Rezept, lass es uns einfach wissen!
 
-## Übernachtung
-Für die Übernachtung bring bitte einen Schlafsack und eine Isomatte mit. Alles Weitere organisieren wir gemeinsam vor Ort. Falls dir etwas fehlt, melde dich einfach bei uns – wir finden bestimmt eine Lösung.
-
-
 ## Unterstützung
 Damit wir diese Abende anbieten können, brauchen wir deine Unterstützung. Es gibt immer viel zu tun: Einkaufen, Kochen, Aufräumen, Reparieren oder den Garten pflegen. Falls du keine Zeit hast mit anzupacken, kannst du auch gerne etwas in unseren Sparpandabär werfen.
+
+Ab 18 Uhr ist üblicherweise gemeinsames zusammensein. Vorher schauen, wir dass wir mit Allen die mit anpacken wollen um 12 Uhr anfangen.
 
 Wir freuen uns auf einen schönen Abend mit dir!
 
