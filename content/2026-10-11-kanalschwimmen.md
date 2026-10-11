@@ -1,13 +1,13 @@
 Title: Kanalschwimmen jeden Samstag
 Date: 2026-10-11 13:00
 Category: Events
-Slug: kanalschwimmen-sonntags
+Slug: kanalschwimmen-samstags
 lang: de
 Tags: Kanalschwimmen, Bewegung, Wasser, Gemeinschaft
 
 ![Kanalschwimmen](/images/Kanal-Schwimmen.jpg)
 
-# Kanalschwimmen – Jeden Sonntag um 13 Uhr
+# Kanalschwimmen – Jeden Samstag um 13 Uhr
 
 Liebe Freunde,
 
